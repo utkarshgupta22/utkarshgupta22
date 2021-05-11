@@ -1,8 +1,5 @@
 ### Bonjour, I am Utkarsh Gupta 👋
 
-
-Here are some ideas to get you started:
-
 - 🔭 I’m currently Studying at JECRC University
 - 🌱 I’m currently learning Web Development and C++ Programing.
 - 🤔 I’m looking for help with Web Development.
