@@ -12,4 +12,3 @@ Here are some ideas to get you started:
 - 📫 How to reach me: Instagram - @mr.__ug
 - 😄 Pronouns: He/His
 - ⚡ Fun fact: Nothing 
--->
